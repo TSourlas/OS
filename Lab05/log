@@ -1,0 +1,111 @@
+/home/sourlasa/Lab05
+log
+-bash: cd: /home/sourlasa/new_dir: No such file or directory
+stat: cannot stat 'filename': No such file or directory
+  File: testfile
+  Size: 45        	Blocks: 8          IO Block: 4096   regular file
+Device: 811h/2065d	Inode: 302978      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1304/sourlasa)   Gid: ( 1306/sourlasa)
+Access: 2024-12-16 11:28:07.317068488 +0200
+Modify: 2024-12-16 11:28:07.317068488 +0200
+Change: 2024-12-16 11:28:07.317068488 +0200
+ Birth: -
+find: unknown predicate `-searchfile'
+find: unknown predicate `-searchfile.txt'
+asdasdasdsafasdf
+
+asdasdasdsafasdf
+
+asdasdasdsafasdf
+
+asdasdasdsafasdf
+
+tar: Removing leading `/' from member names
+/home/sourlasa/Lab05/
+/home/sourlasa/Lab05/example2.c
+/home/sourlasa/Lab05/example4.c
+/home/sourlasa/Lab05/example5.c
+/home/sourlasa/Lab05/searchfile.txt
+/home/sourlasa/Lab05/example3.c
+/home/sourlasa/Lab05/example5
+tar: /home/sourlasa/Lab05/archive.tar: file is the archive; not dumped
+/home/sourlasa/Lab05/example3
+/home/sourlasa/Lab05/example1.c
+/home/sourlasa/Lab05/example2
+/home/sourlasa/Lab05/example6.c
+/home/sourlasa/Lab05/log
+tar: /home/sourlasa/Lab05/log: file changed as we read it
+/home/sourlasa/Lab05/example1
+home/sourlasa/Lab05/
+home/sourlasa/Lab05/example2.c
+home/sourlasa/Lab05/example4.c
+home/sourlasa/Lab05/example5.c
+home/sourlasa/Lab05/searchfile.txt
+home/sourlasa/Lab05/example3.c
+home/sourlasa/Lab05/example5
+home/sourlasa/Lab05/example3
+home/sourlasa/Lab05/example1.c
+home/sourlasa/Lab05/example2
+home/sourlasa/Lab05/example6.c
+home/sourlasa/Lab05/log
+home/sourlasa/Lab05/example1
+tar: Removing leading `/' from member names
+/home/sourlasa/Lab05/
+/home/sourlasa/Lab05/example2.c
+/home/sourlasa/Lab05/example4.c
+/home/sourlasa/Lab05/home/
+/home/sourlasa/Lab05/home/sourlasa/
+/home/sourlasa/Lab05/home/sourlasa/Lab05/
+/home/sourlasa/Lab05/home/sourlasa/Lab05/example2.c
+/home/sourlasa/Lab05/home/sourlasa/Lab05/example4.c
+/home/sourlasa/Lab05/home/sourlasa/Lab05/example5.c
+/home/sourlasa/Lab05/home/sourlasa/Lab05/searchfile.txt
+/home/sourlasa/Lab05/home/sourlasa/Lab05/example3.c
+/home/sourlasa/Lab05/home/sourlasa/Lab05/example5
+/home/sourlasa/Lab05/home/sourlasa/Lab05/example3
+/home/sourlasa/Lab05/home/sourlasa/Lab05/example1.c
+/home/sourlasa/Lab05/home/sourlasa/Lab05/example2
+/home/sourlasa/Lab05/home/sourlasa/Lab05/example6.c
+/home/sourlasa/Lab05/home/sourlasa/Lab05/log
+/home/sourlasa/Lab05/home/sourlasa/Lab05/example1
+/home/sourlasa/Lab05/example5.c
+/home/sourlasa/Lab05/searchfile.txt
+/home/sourlasa/Lab05/example3.c
+/home/sourlasa/Lab05/example5
+/home/sourlasa/Lab05/archive.tar
+/home/sourlasa/Lab05/example3
+/home/sourlasa/Lab05/example1.c
+/home/sourlasa/Lab05/example2
+/home/sourlasa/Lab05/example6.c
+/home/sourlasa/Lab05/log
+/home/sourlasa/Lab05/example1
+tar: /home/sourlasa/Lab05: file changed as we read it
+home/sourlasa/Lab05/
+home/sourlasa/Lab05/example2.c
+home/sourlasa/Lab05/example4.c
+home/sourlasa/Lab05/home/
+home/sourlasa/Lab05/home/sourlasa/
+home/sourlasa/Lab05/home/sourlasa/Lab05/
+home/sourlasa/Lab05/home/sourlasa/Lab05/example2.c
+home/sourlasa/Lab05/home/sourlasa/Lab05/example4.c
+home/sourlasa/Lab05/home/sourlasa/Lab05/example5.c
+home/sourlasa/Lab05/home/sourlasa/Lab05/searchfile.txt
+home/sourlasa/Lab05/home/sourlasa/Lab05/example3.c
+home/sourlasa/Lab05/home/sourlasa/Lab05/example5
+home/sourlasa/Lab05/home/sourlasa/Lab05/example3
+home/sourlasa/Lab05/home/sourlasa/Lab05/example1.c
+home/sourlasa/Lab05/home/sourlasa/Lab05/example2
+home/sourlasa/Lab05/home/sourlasa/Lab05/example6.c
+home/sourlasa/Lab05/home/sourlasa/Lab05/log
+home/sourlasa/Lab05/home/sourlasa/Lab05/example1
+home/sourlasa/Lab05/example5.c
+home/sourlasa/Lab05/searchfile.txt
+home/sourlasa/Lab05/example3.c
+home/sourlasa/Lab05/example5
+home/sourlasa/Lab05/archive.tar
+home/sourlasa/Lab05/example3
+home/sourlasa/Lab05/example1.c
+home/sourlasa/Lab05/example2
+home/sourlasa/Lab05/example6.c
+home/sourlasa/Lab05/log
+home/sourlasa/Lab05/example1
